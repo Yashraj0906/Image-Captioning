@@ -1,4 +1,5 @@
-🖼️ Image Captioning using ResNet50 + LSTM 
+🌟🖼️ IMAGE CAPTIONING USING RESNET50 + LSTM (DEEP LEARNING PROJECT)
+
 📘 Overview
 
 This project focuses on automatically generating captions for images using a hybrid deep learning architecture — a Convolutional Neural Network (ResNet50) for extracting visual features and a Long Short-Term Memory (LSTM) network for generating natural language descriptions.
